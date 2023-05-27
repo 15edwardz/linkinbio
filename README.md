@@ -5,7 +5,7 @@
 
 Link in Bio is an easy-to-use tool for building a minimalistic yet powerful landing page. Whether you want to show off your projects, share your favourite songs or plug your social media accounts, Link in Bio does it all for you.
 
-Built with HTML JavaScript and CSS,Link in Bio features:
+Built with HTML JavaScript and CSS, Link in Bio features:
 
 * Production-ready source code
 * Easy to use interface
