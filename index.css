@@ -4,11 +4,12 @@ body {
   overflow-x: hidden;
   min-height: 80vh;
   background-color: rgb(90, 88, 133);
+  margin-left: 9px;
 }
 .center {
   margin: auto;
   width: 60%;
-  padding: 10px;
+  padding-left: 10px;
   text-align: center;
   display: inline-block;
 }
