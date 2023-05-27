@@ -109,6 +109,7 @@ $(document).ready(function () {
     var bio = $("#bio").val();
     var links = parseInt($("#links").val());
     var icons = parseInt($("#icons").val());
+    var selectedColor = $("#colorPicker").val(); // Get the selected color
   
     var htmlCode = "<!DOCTYPE html>\n";
     htmlCode += '<html lang="en">\n';
@@ -131,7 +132,7 @@ $(document).ready(function () {
     htmlCode += "  </head>\n";
     htmlCode +=
       "  <style>\n" +
-      "    html, body {scroll-behavior: smooth; overflow-x: hidden; min-height: 100vh; background-color: rgb(90, 88, 133);}\n" +
+      "    html, body {scroll-behavior: smooth; overflow-x: hidden; min-height: 100vh; background-color: " + selectedColor + ";}\n" +
       "    header {margin-top: 10vw;}\n" +
       "    .center {margin: auto; width: 60%; padding: 10px; text-align: center;}\n" +
       '    h1 {font-family: "Signika Negative", sans-serif; padding-bottom: 150px;}\n' +
