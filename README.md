@@ -50,7 +50,7 @@ To link an email address, instead use mailto:username@domain.com.
 
 ### Icon Selection
 This tools uses Font Awesome icons in the "fa fa-iconname" style.  
-A full list of free icons by Font Awesome can be found [here](https://gist.github.com/mohamdio/982653e3a8ae35f892f13c5ef0ef9b58).  
+A full list of free icons by Font Awesome can be found [here](https://fontawesome.com/v4/icons/).  
 Note that "fa fa-" is the default, any icon name in the list will be compatible and the b/s does not need to be included.
 
 ## Deploying
